@@ -1,7 +1,3 @@
-### Hi there 👋
-
-#### About me
-
 :computer:Interested in Cybersecurity and Data Science
 
 :man_technologist: Computer science newbie 
