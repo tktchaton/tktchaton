@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### About me
+
 :computer:Interested in Cybersecurity and Data Science
 
 :man_technologist: Computer science newbie 
@@ -7,14 +9,15 @@
 :thinking: Searching for an ~~internship~~ a place to work in January-February 2023
 
 
-<div id="image" align="center">
-  <img src="https://live.staticflickr.com/7460/27509199696_97aae6f301_n.jpg" width="300"
-</div>
 
-<div>
+
+<div id="technos" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  
+  
 </div>
 
 <!--
